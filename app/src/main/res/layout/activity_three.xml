@@ -9,7 +9,7 @@
 
     <TextView
         android:id="@+id/textView8"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="51dp"
         android:background="#12B819"
         android:paddingStart="70dp"
@@ -52,11 +52,12 @@
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="42dp"
         android:autofillHints=""
         android:ems="10"
         android:hint="@string/write_e_mail"
+        android:paddingHorizontal="10dp"
         android:inputType="textEmailAddress"
         android:textColorHint="#D19F56"
         android:background="@color/white"
@@ -81,17 +82,18 @@
 
     <TextView
         android:id="@+id/textView11"
-        android:layout_width="410dp"
+        android:layout_width="match_parent"
         android:layout_height="49dp"
         android:background="@color/white"
         android:gravity="center_vertical"
+        android:paddingHorizontal="10dp"
         android:text="@string/d9e6f"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView8"
-        app:layout_constraintVertical_bias="0.398" />
+        app:layout_constraintVertical_bias="0.397" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -107,18 +109,7 @@
         app:srcCompat="@android:drawable/ic_menu_help"
         android:contentDescription="@string/question" />
 
-    <TextView
-        android:id="@+id/textView12"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/bonuses"
-        android:background="@color/white"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView11"
-        app:layout_constraintVertical_bias="0.258" />
+
 
     <ImageButton
         android:id="@+id/imageButton3"
@@ -132,4 +123,19 @@
         app:layout_constraintTop_toTopOf="@+id/editTextTextEmailAddress"
         app:layout_constraintVertical_bias="0.533"
         app:srcCompat="@android:drawable/ic_menu_edit" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="114dp"
+        android:background="@color/white"
+        android:padding="10dp"
+        android:text="@string/bonuses"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView11"
+        app:layout_constraintVertical_bias="0.234" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

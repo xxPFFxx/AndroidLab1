@@ -32,4 +32,5 @@
         <item>Предложения</item>
     </string-array>
     <string name="subject_of_request">Тема обращения</string>
+    <string name="_0">0</string>
 </resources>

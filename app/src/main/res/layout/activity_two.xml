@@ -39,16 +39,16 @@
         android:layout_width="331dp"
         android:layout_height="42dp"
         android:layout_marginTop="104dp"
+        android:autofillHints=""
         android:ems="10"
         android:hint="@string/Phone"
         android:inputType="phone"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.445"
+        app:layout_constraintHorizontal_bias="0.443"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.572"
-        android:autofillHints="" />
+        app:layout_constraintVertical_bias="0.57" />
 
     <Button
         android:id="@+id/button2"
