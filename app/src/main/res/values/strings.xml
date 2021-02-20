@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="hey">Hey</string>
+    <string name="Enter">Войти или зарегистрироваться</string>
+    <string name="SMS">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="Conditions">При входе вы соглашаетесь с условиями</string>
+    <string name="GetCode">Получить код</string>
+    <string name="Phone">+7 (...) ...-..-..</string>
+    <string name="Profile">Профиль</string>
+    <string name="email">Email</string>
+    <string name="write_e_mail">Укажите e-mail</string>
+    <string name="Contactcenter">Ваш пароль для контакт-центра</string>
+    <string name="arrow_back">arrow_back</string>
+    <string name="d9e6f">D9E6F</string>
+    <string name="bonuses">Бонусы к аннулированию в феврале (на основании расчетов от 25.01.2021): Если вы производили списания в феврале, количество бонусов к аннулированию уменьшится на количество списанных бонусов</string>
+    <string name="question">question</string>
+    <string name="Settings">Настройки</string>
+    <string name="push">Push - уведомления</string>
+    <string name="choose_city">Определять город автоматически</string>
+    <string name="finger_print">Вход по отпечатку пальца</string>
+    <string name="cancel_authorization">Сбросить авторизацию</string>
+    <string name="Version">Версия приложения 4.41.2</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="your_e_mail">Ваш e-mail адрес</string>
 </resources>
