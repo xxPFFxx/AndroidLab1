@@ -24,4 +24,12 @@
     <string name="your_name">Ваше имя</string>
     <string name="phone_number">Номер телефона</string>
     <string name="your_e_mail">Ваш e-mail адрес</string>
+    <string name="comment">Комментарий</string>
+    <string name="agreement">Я даю согласие на обработку своих персональных данных. С политикой обеспечения безопасности персональных данных САО \'РЕСО-ГАРАНТИЯ\' ознакомлен</string>
+    <string-array name="subjects_of_request">
+        <item>Вопросы</item>
+        <item>Замечания</item>
+        <item>Предложения</item>
+    </string-array>
+    <string name="subject_of_request">Тема обращения</string>
 </resources>
