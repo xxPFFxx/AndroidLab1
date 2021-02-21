@@ -3,7 +3,7 @@
     <string name="hey">Hey</string>
     <string name="Enter">Войти или зарегистрироваться</string>
     <string name="SMS">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
-    <string name="Conditions">При входе вы соглашаетесь с условиями</string>
+    <string name="Conditions">При входе вы соглашаетесь <a href="https://google.com">с условиями</a></string>
     <string name="GetCode">Получить код</string>
     <string name="Phone">+7 (...) ...-..-..</string>
     <string name="Profile">Профиль</string>
@@ -25,7 +25,7 @@
     <string name="phone_number">Номер телефона</string>
     <string name="your_e_mail">Ваш e-mail адрес</string>
     <string name="comment">Комментарий</string>
-    <string name="agreement">Я даю согласие на обработку своих персональных данных. С политикой обеспечения безопасности персональных данных САО \'РЕСО-ГАРАНТИЯ\' ознакомлен</string>
+    <string name="agreement">Я даю согласие на обработку своих персональных данных. С <a href="https://google.com">политикой обеспечения безопасности</a> персональных данных САО \'РЕСО-ГАРАНТИЯ\' ознакомлен</string>
     <string-array name="subjects_of_request">
         <item>Вопросы</item>
         <item>Замечания</item>

@@ -74,7 +74,8 @@
         app:layout_constraintHorizontal_bias="0.079"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView15"
-        app:layout_constraintVertical_bias="0.036" />
+        app:layout_constraintVertical_bias="0.036"
+        android:autofillHints="" />
 
     <TextView
         android:id="@+id/textView16"
@@ -100,7 +101,8 @@
         app:layout_constraintHorizontal_bias="0.079"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView16"
-        app:layout_constraintVertical_bias="0.034" />
+        app:layout_constraintVertical_bias="0.034"
+        android:autofillHints="" />
 
     <TextView
         android:id="@+id/textView17"
@@ -126,7 +128,8 @@
         app:layout_constraintHorizontal_bias="0.089"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView17"
-        app:layout_constraintVertical_bias="0.061" />
+        app:layout_constraintVertical_bias="0.061"
+        android:autofillHints="" />
 
     <Spinner
         android:id="@+id/spinner"
@@ -155,7 +158,8 @@
         app:layout_constraintHorizontal_bias="0.089"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spinner"
-        app:layout_constraintVertical_bias="0.099" />
+        app:layout_constraintVertical_bias="0.099"
+        android:autofillHints="" />
 
     <CheckBox
         android:id="@+id/checkBox"
@@ -163,6 +167,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="57dp"
         android:text="@string/agreement"
+        android:textColorLink="#407C42"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.056"
