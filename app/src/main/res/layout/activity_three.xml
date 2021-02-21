@@ -32,10 +32,10 @@
         android:rotation="270"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.027"
+        app:layout_constraintHorizontal_bias="0.012"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.022"
+        app:layout_constraintVertical_bias="0.017"
         app:srcCompat="@android:drawable/arrow_up_float" />
 
     <TextView
@@ -45,10 +45,10 @@
         android:text="@string/email"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.042"
+        app:layout_constraintHorizontal_bias="0.012"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.098" />
+        app:layout_constraintVertical_bias="0.114" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
@@ -75,10 +75,10 @@
         android:text="@string/Contactcenter"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintHorizontal_bias="0.018"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView8"
-        app:layout_constraintVertical_bias="0.316" />
+        app:layout_constraintVertical_bias="0.317" />
 
     <TextView
         android:id="@+id/textView11"
