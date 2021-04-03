@@ -33,4 +33,9 @@
     </string-array>
     <string name="subject_of_request">Тема обращения</string>
     <string name="_0">0</string>
+    <string name="overview">Overview</string>
+    <string name="released_date">Released:</string>
+    <string name="version_trailer">VERSION TRAILER</string>
+    <string name="poster">poster</string>
+    <string name="avatar">avatar</string>
 </resources>
